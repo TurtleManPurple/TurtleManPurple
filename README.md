@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Work+Sans&weight=600&size=25&pause=1000&width=435&lines=Hi+there!;I'm+TurtleManPurple;I'm+an+amateur+developer)](https://git.io/typing-svg)
 
+---
+
 ### Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
